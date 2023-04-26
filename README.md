@@ -21,9 +21,9 @@
 
 ***Ultimate phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others.***
 
-### [*]Announcent
+### [*] Announcement 
 
-This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
+This project is raw, further bug fixes will occur stay updated.
 
 
 ### [+] Installation
@@ -41,7 +41,7 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/PyPhisher```
+ - ```git clone https://github.com/GinsonORG/PyPhisher```
 
 ##### Enter the directory
  - ```cd PyPhisher```
