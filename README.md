@@ -218,11 +218,5 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 - [![Github](https://img.shields.io/badge/Github-GinsonORG-blue?style=for-the-badge&logo=github)](https://github.com/GinsonORG)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-GinsonORG-purple?style=for-the-badge&logo=gmail)](mailto: gamergnsn@gmail.com)
-
-- [![Facebook](https://img.shields.io/badge/Facebook-Ginson George-blue?style=for-the-badge&logo=facebook)](https://facebook.com/Ginson George)
-
-- [![Messenger](https://img.shields.io/badge/Messenger-Ginson George-orange?style=for-the-badge&logo=messenger)](https://m.me/Ginson George)
-
-- [![Telegram](https://img.shields.io/badge/Telegram-Ginson George-indigo?style=for-the-badge&logo=telegram)](https://t.me/Georgopol)
-
+- [![Telegram](https://img.shields.io/badge/Telegram-Georgopol-indigo?style=for-the-badge&logo=telegram)](https://t.me/Georgopol)
+- 
