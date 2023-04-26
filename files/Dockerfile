@@ -1,10 +1,10 @@
 # Dockerfile
 
-# Author       : KasRoudra
-# Github       : https://github.com/KasRoudra
-# Messenger    : https://m.me/KasRoudra
-# Email        : kasroudrakrd@gmail.com
-# Date         : 25-08-2021
+# Author       : GinsonORG
+# Github       : https://github.com/GinsonORG
+# Messenger    : https://m.me/Georgopol
+# Email        : gamergnsn@gmail.com
+# Date         : 26-4-2023
 # Main Language: Python
 
 # Download and import main images
@@ -15,7 +15,7 @@ FROM debian:latest
 FROM python:3
 
 # Author info
-LABEL MAINTAINER="https://github.com/KasRoudra/PyPhisher"
+LABEL MAINTAINER="https://github.com/GinsonORG/PyPhisher"
 
 # Working directory
 WORKDIR PyPhisher/
