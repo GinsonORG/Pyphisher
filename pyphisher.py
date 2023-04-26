@@ -938,13 +938,13 @@ def updater():
     if not isfile("files/pyphisher.gif"):
         return
     try:
-        git_ver = get("https://raw.githubusercontent.com/GinsonORG/PyPhisher/main/files/version.txt").text.strip()
+        git_ver = get("https://raw.githubusercontent.com/kasroudra/PyPhisher/main/files/version.txt").text.strip()
     except Exception as e:
         append(e, error_file)
         git_ver = version
     if git_ver != "404: Not Found" and float(git_ver) > float(version):
         # Changelog of each versions are seperated by three empty lines
-        changelog = get("https://raw.githubusercontent.com/GinsonORG/PyPhisher/main/files/changelog.log").text.split("\n\n\n")[0]
+        changelog = get("https://raw.githubusercontent.com/kasroudra/PyPhisher/main/files/changelog.log").text.split("\n\n\n")[0]
         clear(fast=True)
         print(f"{info}\x50\x79\x50\x68\x69\x73\x68\x65\x72 has a new update!\n{info2}Current: {red}{version}\n{info}Available: {green}{git_ver}")
         upask=input(f"\n{ask}Do you want to update \x50\x79\x50\x68\x69\x73\x68\x65\x72?[y/n] > {green}")
