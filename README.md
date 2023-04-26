@@ -219,4 +219,5 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 - [![Github](https://img.shields.io/badge/Github-GinsonORG-blue?style=for-the-badge&logo=github)](https://github.com/GinsonORG)
 
 - [![Telegram](https://img.shields.io/badge/Telegram-Georgopol-indigo?style=for-the-badge&logo=telegram)](https://t.me/Georgopol)
-- 
+
+
