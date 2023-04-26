@@ -159,9 +159,9 @@ If not found, php and python modoules will be installed on first run
 4. Send the generated link to victim
 5. Wait for victim login. As soon as he/she logs in, credentials will be captured
 
-<h1 align="center">Example</h1>
+<h1 align="center">Phisher</h1>
 
-![PyPhisher](https://raw.githubusercontent.com/GinsonORG/PyPhisher/files/pyphisher.gif)
+![PyPhisher](https://raw.githubusercontent.com/GinsonORG/PyPhisher/main/files/pyphisher.gif)
 
 ## Video Tutorial
 <a href="https://rebrand.ly/pyphishervideo">PyPhisher in Termux</a>
