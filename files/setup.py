@@ -14,7 +14,7 @@ setup(
     author='GinsonORG',
     author_email='gamergnsn@gmail.com',
     license="MIT",
-    url='https://github.com/GinsonORG/PyPhisher/',
+    url='https://github.com/kasroudra/PyPhisher/',
     scripts=['pyphisher'],
     install_requires=["requests", "bs4", "rich"]
 )
